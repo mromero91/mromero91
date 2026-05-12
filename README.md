@@ -19,13 +19,20 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
 I'm a **Versatile & Results-Driven Senior Software Engineer** with over 9 years of experience. I specialize in Full-Stack Development, Microservices, and Cloud-Native solutions. I thrive on designing clean, efficient, and robust architectures that scale.
 
 *   🌍 **Based in:** Santa Catarina, NL, Mexico
+*   💡 **Always Learning:** I'm deeply passionate about discovering new things, implementing innovative solutions, and optimizing resources for maximum efficiency.
 *   🏗️ **Architecture Philosophy:** Passionate about **Clean Architecture**, **Hexagonal Architecture**, and **Event-Driven Distributed Systems**
 *   ⚙️ **My Focus:** Integrating GraphQL/REST APIs, optimizing front-end performance, and managing cloud infrastructure (GCP, AWS).
+*   🎮 **Off-Screen Hobbies:** When I'm not coding, my favorite way to unwind is playing my **Nintendo Switch**—specifically, throwing shells and drifting as **Donkey Kong** in **Mario Kart**! 🦍🏎️🍌
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch" />
+  <img src="https://img.shields.io/badge/Main-Donkey_Kong-8B4513?style=for-the-badge&logo=nintendo&logoColor=white" alt="Donkey Kong" />
+</p>
 
 ---
 
@@ -74,7 +81,7 @@ I'm a **Versatile & Results-Driven Senior Software Engineer** with over 9 years 
 
 | Timeline | Role & Company | Key Achievements & Tech |
 | :---: | :--- | :--- |
-| **Dec 2024 - Present** | Full Stack Developer @ **Movit Solutions** | Microservices in **Golang**, Clean/Hexagonal Architecture, IoT event-driven systems, GCP & Terraform. |
+| **Dec 2024 - Dec 2025** | Full Stack Developer @ **Movit Solutions** | Microservices in **Golang**, Clean/Hexagonal Architecture, IoT event-driven systems, GCP & Terraform. |
 | **Oct 2021 - Dec 2024** | Full Stack Developer @ **Ventup** | **ReactJS** UIs, **Node.js** & **Ruby on Rails** backend, GraphQL integration, AWS S3 deployments. |
 | **Sep 2019 - Oct 2021** | Full Stack Developer @ **Galt Energy** | **Laravel (PHP)** Eloquent optimization, full CRM redesign (Golang/Angular/Vue), Cloud server management. |
 | **Jan 2019 - Sep 2019** | Full Stack Developer @ **Ventus Technology** | Feature enhancement and performance improvements using PHP and Vanilla JS. |
