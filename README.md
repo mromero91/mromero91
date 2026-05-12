@@ -10,21 +10,20 @@
   <a href="mailto:m_romero1091@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/mromero-dev">
+  <a href="https://github.com/mromero91">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   </a>
   <!-- Si tienes LinkedIn, puedes agregar el badge aquí -->
-  <!-- <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <a href="https://www.linkedin.com/in/mromero-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **Versatile & Results-Driven Senior Software Engineer** with over 9 years of experience. I specialize in Full-Stack Development, Microservices, and Cloud-Native solutions. I thrive on designing clean, efficient, and robust architectures that scale.
 
 *   🌍 **Based in:** Santa Catarina, NL, Mexico
-*   💼 **Currently:** Full Stack Developer at **Movit Solutions**
 *   🏗️ **Architecture Philosophy:** Passionate about **Clean Architecture**, **Hexagonal Architecture**, and **Event-Driven Distributed Systems**
 *   ⚙️ **My Focus:** Integrating GraphQL/REST APIs, optimizing front-end performance, and managing cloud infrastructure (GCP, AWS).
 
@@ -80,18 +79,3 @@ I'm a **Versatile & Results-Driven Senior Software Engineer** with over 9 years 
 | **Sep 2019 - Oct 2021** | Full Stack Developer @ **Galt Energy** | **Laravel (PHP)** Eloquent optimization, full CRM redesign (Golang/Angular/Vue), Cloud server management. |
 | **Jan 2019 - Sep 2019** | Full Stack Developer @ **Ventus Technology** | Feature enhancement and performance improvements using PHP and Vanilla JS. |
 | **2014 - 2018** | Full Stack Developer @ **Various Agencies** | Tailored scalable web applications building with Angular, Vue, React, CakePHP, .NET, and Laravel. |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mromero91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=3B82F6" alt="Miguel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mromero91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=3B82F6" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
