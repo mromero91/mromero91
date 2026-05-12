@@ -29,11 +29,6 @@ I'm a **Versatile & Results-Driven Senior Software Engineer** with over 9 years 
 *   ⚙️ **My Focus:** Integrating GraphQL/REST APIs, optimizing front-end performance, and managing cloud infrastructure (GCP, AWS).
 *   🎮 **Off-Screen Hobbies:** When I'm not coding, my favorite way to unwind is playing my **Nintendo Switch**—specifically, throwing shells and drifting as **Donkey Kong** in **Mario Kart**! 🦍🏎️🍌
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch" />
-  <img src="https://img.shields.io/badge/Main-Donkey_Kong-8B4513?style=for-the-badge&logo=nintendo&logoColor=white" alt="Donkey Kong" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
